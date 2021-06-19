@@ -1,0 +1,27 @@
+
+
+{
+    "shirts for Men": [
+
+        {
+            "Size": "M",
+            "ProductName" : "Fast colors",
+            "price" : "355",
+            "offer": "82%",
+            "Description": "Solid round neck",
+            "url":"https://rukminim1.flixcart.com/image/580/696/kjuby4w0/t-shirt/4/f/7/xl-fc4057-fastcolors-original-imafzbj56yxpkzzh.jpeg?q=50"
+        },
+
+        {
+
+            "Size": "L",
+            "ProductName" : "Peter England",
+            "price" : "649",
+            "offer": "52%",
+            "Description": "Solid with collor",
+            "url":"https://rukminim1.flixcart.com/image/580/696/kph8h3k0/t-shirt/s/z/2/xl-pckplsgf983764-peter-england-original-imag3p8rgrs8rsrh.jpeg?q=50"
+
+
+        }
+    ]
+}
