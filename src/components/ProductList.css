@@ -1,0 +1,44 @@
+.Product-container {
+    
+  display: flex;
+ 
+   
+
+}
+
+
+.Productlists {
+
+  width:475px;
+  height:390px;
+  border:1px soild black;
+  
+
+}
+
+
+.Productlists > img {
+
+    width:400px;
+    height:300px;
+    object-fit: contain;
+}
+
+
+.description {
+
+    text-align: center;
+
+}
+
+
+.Productlistswomen {
+
+}
+
+
+
+.description {
+
+}
+
